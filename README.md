@@ -4,8 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-o'zingizni tokieninggizni 2 ta joyga qo'yishinggiz kerak 1) mapbox_access_token.xml file ichiga 2) gradle.properties file ichida
+## <H1>o'zingizni tokieninggizni 2 ta joyga qo'yishinggiz kerak 1) mapbox_access_token.xml file ichiga 2) gradle.properties file ichida</H1>
 
 -ae99-203bb7b60e3d" />
 o'zinggizni Mapbox-dagi tokeninggizni joylaysiz
